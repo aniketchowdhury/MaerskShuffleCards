@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CardShuffler/static/css/main.e29d1841.chunk.css",
+    "main.js": "/CardShuffler/static/js/main.84e1dd02.chunk.js",
+    "main.js.map": "/CardShuffler/static/js/main.84e1dd02.chunk.js.map",
+    "runtime-main.js": "/CardShuffler/static/js/runtime-main.ec71e5ae.js",
+    "runtime-main.js.map": "/CardShuffler/static/js/runtime-main.ec71e5ae.js.map",
+    "static/js/2.2fd5eb3c.chunk.js": "/CardShuffler/static/js/2.2fd5eb3c.chunk.js",
+    "static/js/2.2fd5eb3c.chunk.js.map": "/CardShuffler/static/js/2.2fd5eb3c.chunk.js.map",
+    "static/js/3.5190cfe4.chunk.js": "/CardShuffler/static/js/3.5190cfe4.chunk.js",
+    "static/js/3.5190cfe4.chunk.js.map": "/CardShuffler/static/js/3.5190cfe4.chunk.js.map",
+    "index.html": "/CardShuffler/index.html",
+    "static/css/main.e29d1841.chunk.css.map": "/CardShuffler/static/css/main.e29d1841.chunk.css.map",
+    "static/js/2.2fd5eb3c.chunk.js.LICENSE.txt": "/CardShuffler/static/js/2.2fd5eb3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec71e5ae.js",
+    "static/js/2.2fd5eb3c.chunk.js",
+    "static/css/main.e29d1841.chunk.css",
+    "static/js/main.84e1dd02.chunk.js"
+  ]
+}
