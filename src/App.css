@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  display: flex;
+}
+
+body {
+  height: 100vh;
+  background-color: #efefef;
 }
 
 .App-logo {
@@ -14,8 +20,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  /*background-color: #282c34;*/
+  /*min-height: 100vh;*/
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,6 +32,18 @@
 
 .App-link {
   color: #61dafb;
+}
+
+@media screen and (max-width: 480px) {
+  .numberContainer {
+    flex-direction: column;
+}
+.numberTile {
+  min-width: 100%;
+}
+.App {
+  flex-direction: column-reverse;
+}
 }
 
 @keyframes App-logo-spin {
